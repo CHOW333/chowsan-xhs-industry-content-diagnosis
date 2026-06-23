@@ -117,6 +117,27 @@
 11. 承接方式
 12. 最重要的一句话
 
+## 安装方式
+
+如果你使用 Codex，可以直接对 Codex 说：
+
+```text
+请帮我从这个 GitHub 仓库安装 skill：
+https://github.com/CHOW333/chowsan-xhs-industry-content-diagnosis
+```
+
+也可以说得更明确一点：
+
+```text
+请把 https://github.com/CHOW333/chowsan-xhs-industry-content-diagnosis 里的 chowsan-xhs-industry-content-diagnosis skill 安装到我的 Codex skills 目录。
+```
+
+安装后，可以这样调用：
+
+```text
+用 $chowsan-xhs-industry-content-diagnosis 诊断一下，小区门口的水果店应该怎么做小红书内容。
+```
+
 ## 使用示例
 
 你可以这样问：
