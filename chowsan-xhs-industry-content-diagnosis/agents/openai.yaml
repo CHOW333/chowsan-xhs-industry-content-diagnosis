@@ -1,0 +1,6 @@
+interface:
+  display_name: "ChowSan XHS Industry Content Diagnosis"
+  short_description: "Diagnose XHS content by industry"
+  default_prompt: "Use $chowsan-xhs-industry-content-diagnosis to diagnose an industry and create a Xiaohongshu content plan."
+policy:
+  allow_implicit_invocation: true
